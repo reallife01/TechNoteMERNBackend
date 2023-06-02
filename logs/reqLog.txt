@@ -1,0 +1,15 @@
+2023-06-01		12:22:44	e11be6cb-0147-4ea8-968d-42c04ca76296	 GET	undefined	/ggw 
+2023-06-01		12:22:44	0f4a3674-1c98-4848-901d-928b884a6920	 GET	undefined	/css/style.css 
+2023-06-01		12:25:16	ecdcab76-f3d6-4c32-839b-4af2b47cc228	 GET	undefined	/ 
+2023-06-01		12:25:16	0744f314-13e5-4b10-8714-29e36081928f	 GET	undefined	/css/style.css 
+2023-06-01		12:32:09	71171b25-c2e1-4c96-9ee7-5f1110da1e57	 OPTIONS	https://www.google.com.ng	/ 
+2023-06-01		12:32:09	915b724d-4639-4b57-a45a-aba83347da4f	 GET	https://www.google.com.ng	/ 
+2023-06-01		12:39:17	4c9337fe-313f-43da-b3d6-60c38e1c206b	 OPTIONS	https://www.google.com.ng	/ 
+2023-06-01		12:39:17	bbd67193-16fb-4c1d-8032-d8aae18c3fab	 GET	https://www.google.com.ng	/ 
+2023-06-01		12:40:59	635083a8-cb34-434c-89c2-337dea08a487	 OPTIONS	https://www.google.com.ng	/ 
+2023-06-01		12:40:59	b51576e6-7ee9-41b6-bb06-88630cfd3a6b	 GET	https://www.google.com.ng	/ 
+2023-06-01		12:44:38	066f4b21-d8f6-41ec-b1fc-33e85c79c220	 OPTIONS	https://www.google.com.ng	/ 
+2023-06-01		12:44:38	cfc291d8-0f3c-403b-b67b-7bbc604ea5d8	 GET	https://www.google.com.ng	/ 
+2023-06-01		12:55:09	ff1b2ea8-1403-4ddb-958f-1d53ee783c9d	 OPTIONS	https://www.google.com.ng	/ 
+2023-06-01		12:55:09	c44a572c-1bf5-4329-b217-e6141c31f682	 GET	https://www.google.com.ng	/ 
+2023-06-01		13:07:14	f26eee08-989a-4908-a4d9-dd5392c158c8	 GET	https://www.google.com.ng	/ 

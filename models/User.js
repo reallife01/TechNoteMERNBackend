@@ -11,7 +11,7 @@ const userSchema = new Schema ({
         require: true,
     },
     roles: [{
-            type: string,
+            type: String,
             default: 'Employees' 
     }],
     active: {

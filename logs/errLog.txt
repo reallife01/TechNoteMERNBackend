@@ -1,0 +1,10 @@
+2023-06-02		12:12:38	79affbb3-9bfe-4008-aa57-86a652048ec9	 ReferenceError: response is not defined	GET	/user	undefined 
+2023-06-02		12:24:00	0a0716c1-5ff1-497e-855b-587a40ed43e4	 Error: Cannot set headers after they are sent to the client	POST	/user	undefined 
+2023-06-06		13:16:08	1416a7ae-8b2a-4832-bc9e-4ac9422d9e07	 Error: Not allowed by CORS	GET	/user	http://localhost:5174 
+2023-06-06		13:18:00	0e228005-99f6-4ee9-8e0f-995c1a83e411	 Error: Not allowed by CORS	GET	/user	http://localhost:5174 
+2023-06-06		13:18:05	3da12816-3309-456d-9260-8b7cc386d9a6	 Error: Not allowed by CORS	GET	/users	http://localhost:5174 
+2023-06-06		13:20:40	5c5e18c0-8b16-4497-b0cf-1d38df9bf19c	 Error: Not allowed by CORS	GET	/users	http://localhost:5174 
+2023-06-06		14:14:38	2b8eab2b-3862-44c4-9859-84b25f2f8614	 Error: Not allowed by CORS	GET	/users	http://localhost:5174 
+2023-06-08		09:56:43	e62263a6-582c-4b5a-92e9-9a2f2166d08d	 TypeError: Cannot read properties of null (reading 'username')	GET	/notes	undefined 
+2023-06-08		09:59:49	badd5921-41f4-4186-94b0-c9ef4d71b532	 TypeError: Cannot read properties of null (reading 'username')	GET	/notes	undefined 
+2023-06-08		09:59:54	fe6a5c55-8b14-49c6-b6b9-2dd4391451cd	 TypeError: Cannot read properties of null (reading 'username')	GET	/notes	undefined 

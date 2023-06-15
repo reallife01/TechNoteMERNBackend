@@ -8,3 +8,8 @@
 2023-06-08		09:56:43	e62263a6-582c-4b5a-92e9-9a2f2166d08d	 TypeError: Cannot read properties of null (reading 'username')	GET	/notes	undefined 
 2023-06-08		09:59:49	badd5921-41f4-4186-94b0-c9ef4d71b532	 TypeError: Cannot read properties of null (reading 'username')	GET	/notes	undefined 
 2023-06-08		09:59:54	fe6a5c55-8b14-49c6-b6b9-2dd4391451cd	 TypeError: Cannot read properties of null (reading 'username')	GET	/notes	undefined 
+2023-06-14		10:49:19	0bb6ce98-6c67-48f9-a3c2-39fdcdd38ef9	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-sf6ixas-shard-00-00.n0ov5kt.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-14		10:50:04	ab3930df-0d22-4953-bffc-6c2e1c9b5013	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-sf6ixas-shard-00-00.n0ov5kt.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-14		11:40:21	2b077eea-3b39-4c05-baaf-c4265902e8f8	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-sf6ixas-shard-00-00.n0ov5kt.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-14		11:41:06	c0b282d8-8066-4559-9ede-faaae1015e78	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-sf6ixas-shard-00-00.n0ov5kt.mongodb.net	GET	/notes	http://localhost:5173 
+2023-06-14		11:41:53	d721b663-de59-4b8e-992e-d44ee3745609	 MongoServerSelectionError: getaddrinfo ENOTFOUND ac-sf6ixas-shard-00-00.n0ov5kt.mongodb.net	GET	/notes	http://localhost:5173 

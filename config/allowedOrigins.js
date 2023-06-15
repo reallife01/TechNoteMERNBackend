@@ -1,10 +1,5 @@
 const allowedOrigins = [
-    "https://www.google.com.ng",
-    "http://localhost:5173",
-    "http://localhost:4500",
-    
-    
-    
+    "https://www.technote.onrender.com"
   ];
   module.exports = allowedOrigins;
   
